@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f29aafc-74e8-4ec2-b4f5-4da252774a6a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.base/java/util/InputMismatchException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/News.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LGK7qDXyrs8RvdEEFXZ8WhUyCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/Desktop/Milestone1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f29aafc-74e8-4ec2-b4f5-4da252774a6a" name="Changes" comment="" />
+      <created>1675491815268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675491815268</updated>
+      <workItem from="1675491816477" duration="665000" />
+      <workItem from="1675493727312" duration="6000" />
+      <workItem from="1675493767886" duration="1289000" />
+      <workItem from="1675517118245" duration="604000" />
+      <workItem from="1675852633923" duration="499000" />
+      <workItem from="1675853179059" duration="1949000" />
+      <workItem from="1675855142980" duration="420000" />
+      <workItem from="1675855657522" duration="1093000" />
+      <workItem from="1675862929881" duration="1220000" />
+      <workItem from="1675864177424" duration="9683000" />
+      <workItem from="1675875858411" duration="3581000" />
+      <workItem from="1675916766184" duration="8021000" />
+      <workItem from="1675931759649" duration="34000" />
+      <workItem from="1675931834325" duration="11392000" />
+      <workItem from="1675943474213" duration="7000" />
+      <workItem from="1675950268052" duration="976000" />
+      <workItem from="1676097214884" duration="4000" />
+      <workItem from="1676097896659" duration="3000" />
+      <workItem from="1676100872475" duration="362000" />
+      <workItem from="1676210789645" duration="616000" />
+      <workItem from="1676294502220" duration="317000" />
+      <workItem from="1676387020554" duration="4390000" />
+      <workItem from="1676392024616" duration="592000" />
+      <workItem from="1676392660010" duration="188000" />
+      <workItem from="1676396879839" duration="50000" />
+      <workItem from="1676396971659" duration="133000" />
+      <workItem from="1676397119284" duration="58000" />
+      <workItem from="1676397193687" duration="217000" />
+      <workItem from="1676397430197" duration="694000" />
+      <workItem from="1676398155789" duration="945000" />
+      <workItem from="1676412823573" duration="617000" />
+      <workItem from="1676446495839" duration="11000" />
+      <workItem from="1676465930620" duration="46000" />
+      <workItem from="1676466256835" duration="171000" />
+      <workItem from="1676466598148" duration="28000" />
+      <workItem from="1676466878939" duration="3000" />
+      <workItem from="1676473521795" duration="961000" />
+      <workItem from="1676543615856" duration="1360000" />
+      <workItem from="1676545020446" duration="2422000" />
+      <workItem from="1676547677854" duration="121000" />
+      <workItem from="1676548155982" duration="8093000" />
+      <workItem from="1676614843728" duration="1064000" />
+      <workItem from="1676616727006" duration="888000" />
+      <workItem from="1676621665646" duration="8000" />
+      <workItem from="1676621989571" duration="1480000" />
+      <workItem from="1676629541073" duration="104000" />
+      <workItem from="1676631650642" duration="7000" />
+      <workItem from="1676632848219" duration="1734000" />
+      <workItem from="1676635335817" duration="66000" />
+      <workItem from="1676644077781" duration="2000" />
+      <workItem from="1676647802531" duration="884000" />
+      <workItem from="1676649852102" duration="894000" />
+      <workItem from="1676654525348" duration="1925000" />
+      <workItem from="1676656913522" duration="405000" />
+      <workItem from="1676700389210" duration="2000" />
+      <workItem from="1676700759882" duration="29000" />
+      <workItem from="1676701142069" duration="14000" />
+      <workItem from="1676701229369" duration="33000" />
+      <workItem from="1676702355474" duration="20000" />
+      <workItem from="1676702495585" duration="20000" />
+      <workItem from="1676702544283" duration="4000" />
+      <workItem from="1676702733966" duration="2868000" />
+      <workItem from="1676715698127" duration="1859000" />
+      <workItem from="1676784676175" duration="1221000" />
+      <workItem from="1677128512360" duration="36000" />
+      <workItem from="1677160328388" duration="4767000" />
+      <workItem from="1677177360939" duration="260000" />
+      <workItem from="1677177632783" duration="6323000" />
+      <workItem from="1677218866741" duration="13445000" />
+      <workItem from="1677238852506" duration="4958000" />
+      <workItem from="1698578140926" duration="328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
